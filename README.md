@@ -22,11 +22,11 @@ Follow these instructions to set up and run the React.js Vite application:
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/your-username/react-admin-dashboard.git
+   git clone https://github.com/Vicgok/Admin_dashboard.git
    ```
 2. Navigate to the project directory:
    ```
-   cd react-admin-dashboard
+   cd Admin_dashboard
    ```
 3. Install dependencies:
    ```
